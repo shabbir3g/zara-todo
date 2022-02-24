@@ -1,7 +1,17 @@
 .App {
   text-align: center;
 }
-
+.todolist {
+  border: 5px solid #9b59b6;
+  width: 30%;
+  margin: 20px auto;
+  padding: 20px;
+  background: #ecf0f1;
+  border-radius: 4px;
+}
+.css-1c2i806-MuiFormLabel-root-MuiInputLabel-root:focus {
+  color: red !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
